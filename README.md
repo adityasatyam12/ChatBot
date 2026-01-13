@@ -11,3 +11,9 @@ Azure App Service
 Visual Studio Code or Cloud Shell
 Python / Flask
 Azure Portal
+
+
+.env
+AZURE_OPENAI_ENDPOINT=<your-endpoint>
+AZURE_OPENAI_KEY=<your-key>
+AZURE_OPENAI_DEPLOYMENT=chatbot-deploy
