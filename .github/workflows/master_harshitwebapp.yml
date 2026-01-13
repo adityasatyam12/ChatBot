@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'HarshitWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3AAC1988F2149B8B590E6216E770A82 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFFB0695BAE245B393092B6A3FC53710 }}
